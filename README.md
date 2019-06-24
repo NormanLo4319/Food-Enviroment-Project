@@ -1,5 +1,6 @@
 # Food Environment Project
 Evaluation of the Impact of Food Environment to Health Outcome
+![health](Graphs/Obes_Diab_Rate_Ranked.png)
 
 ## Objective:
 The main objective of this project is to examining the relationship between the food environment and health outcome (obesity & diabetes) at country level.
