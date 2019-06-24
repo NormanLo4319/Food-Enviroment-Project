@@ -11,7 +11,7 @@ Data used in this project is collected from several sources at the country level
 - Center for Disease Control and Prevention (CDC)
 - U.S. Census Bureau (U.S. Census Data)
 - SimpleMaps Geographic Data Products (www.simplemap.com)
-- Yelp API
+- Yelp API (https://www.yelp.com/developers)
 
 ## Methodology:
 Several hypothesis testings are performed in this project to investigate the correlation between food environment and health outcomes.
