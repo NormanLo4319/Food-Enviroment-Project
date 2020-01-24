@@ -1,5 +1,5 @@
 # Food Environment Project
-Evaluation of the Impact of Food Environment to Health Outcome
+Evaluation of the Impact of Food Environment to Health Outcome.  This project is taking the fast food restaurant data from Yelp to evaluate the effect of accessibility of fast food may explain the health outcome of the neighborhood.  
 ![health](Graphs/Obes_Diab_Rate_Ranked.png)
 
 ## Objective:
