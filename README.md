@@ -15,7 +15,7 @@ Data used in this project is collected from several sources at the country level
 - Yelp API (https://www.yelp.com/developers)
 
 ## Methodology:
-Several hypothesis testings are performed in this project to investigate the correlation between food environment and health outcomes.
+Several hypothesis testings were used in this project to investigate the correlation between food environment and health outcomes.
 ### Level 1: Independence t-Test
 Objective: Find any statistical significant difference between average ratio and high ratio counties.
 ### Level 2: ANOVA
