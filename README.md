@@ -23,7 +23,7 @@ Objective: Find any statistical significant difference between low, medium, and 
 ### Level 3: Single Variable Regression Model
 Objective: Find any correlation between population fast food ratio and obesity rate or diabetes rate.
 
-## Libraries Used:
+## Libraries:
 All data cleaning, statistic anaylsis, and visualisation are done in Python.  Here is a list of libraries is being applied throughout the project.
 - Json
 - MatPlotLib
