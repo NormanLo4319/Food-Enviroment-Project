@@ -24,7 +24,7 @@ Objective: Find any statistical significant difference between low, medium, and 
 Objective: Find any correlation between population fast food ratio and obesity rate or diabetes rate.
 
 ## Libraries:
-All data cleaning, statistic anaylsis, and visualisation are done in Python.  Here is a list of libraries is being applied throughout the project.
+All data cleaning, statistic anaylsis, and visualisation are done in Python.  Here is a list of libraries is being used in this project.
 - Json
 - MatPlotLib
 - Numpy
