@@ -33,3 +33,4 @@ All data cleaning, statistic anaylsis, and visualisation are done in Python.  He
 - Scipy
 - Seaborn
 
+Copyright © 2020 Norman Lo
